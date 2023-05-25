@@ -1,0 +1,481 @@
+[
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Suksan-300x300.jpg",  
+        "name": "ศ.ดร. สุขสันต์ พาณิชพาพิบูล",
+        "email": "sooksan@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "PROBABILITY AND STATISTICS",
+        "subject_id": "06016304"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2021/02/Suphamit-300x300.jpg",
+        "name": "ศ.ดร.ศุภมิตร จิตตะยโศธร",
+        "email": "Suphamit@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "ADVANCED DATABASE SYSTEMS",
+        "subject_id": "06016352"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Nopporn-300x300.jpg", 
+        "name": "รศ.ดร. นพพร โชติกกำธร",
+        "email": "nopporn@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "HUMAN INTERFACE DESIGN",
+        "subject_id": "06016301"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Chanboon-300x300.jpg",
+        "name": "รศ.ดร. จันทร์บูรณ์ สถิตวิริยวงศ์",
+        "email": "chanboon@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "INFORMATION TECHNOLOGY FUNDAMENTALS",
+        "subject_id": "06016301"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Worapoj-300x300.jpg",
+        "name": "รศ.ดร. วรพจน์ กรีสุระเดช",
+        "email": "worapoj@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "COOPERATIVE EDUCATION IN SOFTWARE ENGINEERING",
+        "subject_id": "06016393"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Arit-300x300.jpg",
+        "name": "รศ.ดร. อาริต ธรรมโน",
+        "email": "arit@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "INFORMATION TECHNOLOGY PROJECT MANAGEMENT",
+        "subject_id": "06016307"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Chotipat-300x300.jpg",
+        "name": "รศ.ดร. โชติพัชร์ ภรณวลัย",
+        "email": "chotipat@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "PROBLEM SOLVING IN INFORMATION TECHNOLOGY",
+        "subject_id": "06016314"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Ponrudee-300x300.jpg",
+        "name": "รศ.ดร. พรฤดี เนติโสภากุล",
+        "email": "ponrudee@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "INTRODUCTION TO NATURAL LANGUAGE PROCESSING",
+        "subject_id": "06016378"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Kitsuchart-300x300.jpg",
+        "name": "รศ.ดร. กิติ์สุชาต พสุภา",
+        "email": "kitsuchart@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "COMPUTER PROGRAMMING",
+        "subject_id": "06016315"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Panwit-300x300.jpg",
+        "name": "รศ.ดร. ปานวิทย์ ธุวะนุติ",
+        "email": "panwit@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "MICROPROCESSORS",
+        "subject_id": "06016360"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Kunpong-300x300.jpg",
+        "name": "รศ.ดร. กันต์พงษ์ วรรัตน์ปัญญา",
+        "email": "kuntpong@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "IMAGE PROCESSING",
+        "subject_id": "06016366"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Teerapong-300x300.jpg",
+        "name": "รศ.ดร. ธีรพงศ์ ลีลานุภาพ",
+        "email": "teerapong@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "SOFTWARE ENGINEERING",
+        "subject_id": "06016321"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Olan-300x300.jpg",
+        "name": "ผศ.ดร. โอฬาร วงศ์วิรัตน์",
+        "email": "olarn@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "WIRELESS NETWORK TECHNOLOGY",
+        "subject_id": "06016334"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Akharin-300x300.jpg",
+        "name": "ผศ. อัครินทร์ คุณกิตติ",
+        "email": "akharin@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "SPECIAL TOPICS IN INFORMATION TECHNOLOGY 1",
+        "subject_id": "06016389"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Pattarachai-300x300.jpg",
+        "name": "ผศ.ดร. ภัทรชัย ลลิตโรจน์วงศ์",
+        "email": "pattarachai@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "DATABASE SYSTEM CONCEPTS",
+        "subject_id": "06016308"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Boonprasert-300x300.jpg",
+        "name": "ผศ.ดร. บุญประเสริฐ สุรักษ์รัตนสกุล",
+        "email": "boonprasert@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "REQUIREMENT ENGINEERING",
+        "subject_id": "06016324"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Somkiat-300x300.jpg",
+        "name": "ผศ.ดร. สมเกียรติ วังศิริพิทักษ์",
+        "email": "somkiat@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "COMPUTER VISION",
+        "subject_id": "06016365"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Sumet-300x300.jpg",
+        "name": "ผศ.ดร. สุเมธ ประภาวัต",
+        "email": "sumet@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "INTRODUCTION TO COMPUTER NETWORKS",
+        "subject_id": "06016313"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Kanokwan-300x300.jpg",
+        "name": "ผศ.ดร. กนกวรรณ อัจฉริยะชาญวณิช",
+        "email": "kanokwan@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "DATABASE SYSTEM CONCEPTS",
+        "subject_id": "06016308"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Manop-300x300.jpg",
+        "name": "ผศ.ดร. มานพ พันธ์โคกกรวด",
+        "email": "manop@it.kmitl.ac.th",
+        "type": "Academic" ,
+        "subject": "WEB TECHNOLOGY",
+        "subject_id": "06016312"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Supakit-300x300.jpg",
+        "name": "ผศ.ดร. สุภกิจ นุตยะสกุล",
+        "email": "supakit@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "INTRODUCTION TO COMPUTER SYSTEMS",
+        "subject_id": "06016319"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Srinual-300x300.jpg",
+        "name": "Asst. Prof. Srinual Nalintippayawong",
+        "email": "srinual@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "SPECIAL TOPICS IN INFORMATION TECHNOLOGY 2",
+        "subject_id": "06016390"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Bundit-300x300.jpg",
+        "name": "ผศ.ดร. บัณฑิต ฐานะโสภณ",
+        "email": "bundit@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "WEB PROGRAMMING",
+        "subject_id": "06016215"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Anuntapat-300x300.jpg",
+        "name": "ผศ.ดร. อนันตพัฒน์ อนันตชัย",
+        "email": "anuntapat@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "COMPUTER SYSTEMS ORGANIZATION AND OPERATING SYSTEM",
+        "subject_id": "06016320"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Lapas-300x300.jpg",
+        "name": "ผศ.ดร. ลภัส ประดิษฐ์ทัศนีย์",
+        "email": "lapas@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "INTRODUCTION TO CLOUD TECHNOLOGY",
+        "subject_id": "06016335"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2020/01/parmapon-Profile-Pic-iT-KMiTL.jpg",
+        "name": "ผศ.ดร.ปรมาพร เรืองผกา",
+        "email": "parmapon@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "xxxx",
+        "subject_id": "xxxx"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Sirion-300x300.jpg",
+        "name": "ผศ.ดร. สิริอร วิทยากร",
+        "email": "sirion@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "3D COMPUTER ANIMATION",
+        "subject_id": "06016345"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2019/06/Taravichet-300x300.jpg",
+        "name": "ผศ.ดร. ธราวิเชษฐ์ ธิติจรูญโรจน์",
+        "email": "taravichet@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "OBJECT-ORIENTED PROGRAMMING",
+        "subject_id": "06016317"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Warunee-300x300.jpg",
+        "name": "อ. วารุนี บัววิรัตน์",
+        "email": "warune@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "MANAGEMENT INFORMATION SYSTEMS",
+        "subject_id": "06016305"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Pattanapong-300x300.jpg",
+        "name": "ดร. พัฒนพงษ์ ฉันทมิตรโอภาส",
+        "email": "pattanapong@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "MOBILE DEVICE PROGRAMMING",
+        "subject_id": "06016227"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Supannada-300x300.jpg",
+        "name": "ดร. สุพัณณดา โชติพันธ์",
+        "email": "supannada@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "DATA STRUCTURES AND ALGORITHMS",
+        "subject_id": "06016316"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Supawan-300x300.jpg",
+        "name": "ดร.สุภวรรณ ทัศนประเสริฐ",
+        "email": "supawan@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "MULTIMEDIA PROGRAMMING",
+        "subject_id": "06016341"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Pornsuree-300x300.jpg",
+        "name": "ผศ.ดร. พรสุรีย์ แจ่มศรี",
+        "email": "pornsuree@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "INFORMATION TECHNOLOGY PROJECT MANAGEMENT",
+        "subject_id": "06016307"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Samart-300x300.jpg",
+        "name": "ผศ.ดร. สามารถ หมุดและ",
+        "email": "samart@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "GAME DESIGN AND DEVELOPMENT",
+        "subject_id": "06016343"
+    },
+
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2020/01/\u0e14\u0e23-\u0e19\u0e19\u0e17\u0e4c.jpg",
+        "name": "ดร.นนท์ คนึงสุขเกษม",
+        "email": "nont@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "xxxx",
+        "subject_id": "xxxx"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2020/08/praphan-300x300.jpg",
+        "name": "ดร. ประพันธ์ ปวรางกูร",
+        "email": "praphan@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "INFORMATION SYSTEM SECURITY AND IT LAWS",
+        "subject_id": "06016309"
+       
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2020/10/sirasit-300x300.jpg",
+        "name": "ดร.ศิรสิทธิ์ โล่ห์ชนะจิต",
+        "email": "sirasit@it.kmitl.ac.th",
+        "type": "Academic",
+        "subject": "DISCRETE MATHEMATICS",
+        "subject_id": "06016303"
+    },
+
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2020/08/praphan-300x300.jpg",
+        "name": "Dr. Praphan Pavarangkoon",
+        "email": "praphan@it.kmitl.ac.th",
+        "type": "Academic"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2020/10/sirasit-300x300.jpg",
+        "name": "Dr. Sirasit Lochanachit",
+        "email": "sirasit@it.kmitl.ac.th",
+        "type": "Academic"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Nitsawara-300x300.jpg",
+        "name": "Miss. Nitsawara Janphet",
+        "email": "nitsawara@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Chidapa-300x300.jpg",
+        "name": "Miss. Chidapa Paoyaemtaweep",
+        "email": "chidapa@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Natthawut-300x300.jpg",
+        "name": "Mr. Nuttawut Cumpasano",
+        "email": "nuttawut@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Prayong-300x300.jpg",
+        "name": "Mr. Prayong Soottipan",
+        "email": "prayong@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Vooranuns-300x300.jpg",
+        "name": "Mrs. Vooranuns Skulwongheran",
+        "email": "vooranuns@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Apinya-300x300.jpg",
+        "name": "Miss. Apinya Pin-ngenrn",
+        "email": "apinya@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Vipada-300x300.jpg",
+        "name": "Miss. Vipada Sila",
+        "email": "vipada@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/rungtiwa-300x300.jpg",
+        "name": "Miss. Rungtiwa Kitchareon",
+        "email": "rungtiwa@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Pichitra-300x300.jpg",
+        "name": "Miss. Pichitra Suwansri",
+        "email": "pichitra@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Wipavan-300x300.jpg",
+        "name": "Miss. Wipavan Malai",
+        "email": "wipavan@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Supa-300x300.jpg",
+        "name": "Mrs. Supa Pimswat",
+        "email": "supa@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Wancharawan-300x300.jpg",
+        "name": "Mrs. Watcharawan Nivitchanyong",
+        "email": "watcharawan@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Apichat-300x300.jpg",
+        "name": "Acting Sub Lt. Apichat Chayarati",
+        "email": "apichat@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Chalermkiat-300x300.jpg",
+        "name": "Mr. Chalermkiat Puangmalai",
+        "email": "chalermkiat@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Jirayu-300x300.jpg",
+        "name": "Mr. Jirayu Chompunut",
+        "email": "jirayu@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Phanlop-300x300.jpg",
+        "name": "Mr. Phanlop Juyluksa",
+        "email": "phanlop@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Vimolluck-300x300.jpg",
+        "name": "Mrs. Vimolluck Thianjew",
+        "email": "vimolluck@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Nutcharee-300x300.jpg",
+        "name": "Miss Nutcharee Domchomsap",
+        "email": "nutcharee@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Nutnaree-300x300.jpg",
+        "name": "Miss. Nutnaree Lertpairat",
+        "email": "nutnaree@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Thanatjade-300x300.jpg",
+        "name": "Mr. Thanatjade Buncherd",
+        "email": "Thanatjade@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Rattana-300x300.jpg",
+        "name": "Miss. Rattana Wolrapaluk",
+        "email": "rattana@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/10/Atcharaphorn-300x300.jpg",
+        "name": "Miss Atcharaphorn Deunklang",
+        "email": "atcharaphorn@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Kamonnat-300x300.jpg",
+        "name": "Miss. kamonnat Chuensakun",
+        "email": "kamonnat@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Prateep-300x300.jpg",
+        "name": "Mr. Prateep In-Khiaw",
+        "email": "prateep@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Withchayada02-300x300.jpg",
+        "name": "Miss. Witchayada Vorakangananon",
+        "email": "witchayada@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Montree-300x300.jpg",
+        "name": "Mr. Montree Kingkaew",
+        "email": "Montree@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Thanabordee-300x300.jpg",
+        "name": "SM.1 Thanabordee Khaimarn",
+        "email": "Thanabordee@it.kmitl.ac.th",
+        "type": "Support"
+    },
+    {
+        "imgUri": "https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Sompong-300x300.jpg",
+        "name": "Mr. Sompong Sancha",
+        "email": "sompong@it.kmitl.ac.th",
+        "type": "Support"
+    }
+]
